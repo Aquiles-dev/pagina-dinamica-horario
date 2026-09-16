@@ -1,7 +1,7 @@
-** Página Dinâmica por Horário **
+**Página Dinâmica por Horário**
 
-  Projeto desenvolvido para atividade acadêmica utilizando HTML, CSS e JavaScript.
+Projeto desenvolvido para atividade acadêmica utilizando HTML, CSS e JavaScript.
 
-** Deploy **
+**Deploy**
 
-  link: (https://aquiles-dev.github.io/pagina-dinamica-horario/)
+[Visualizar Página](https://aquiles-dev.github.io/pagina-dinamica-horario/)
